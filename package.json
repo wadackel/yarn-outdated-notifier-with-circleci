@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "Because sample, the test is not executed"
+  },
+  "author": "tsuyoshiwada",
+  "license": "MIT",
+  "dependencies": {
+    "react": "15.0.0",
+    "redux": "3.0.5",
+    "lodash": "3.10.1",
+    "moment": "2.16.0"
+  },
+  "devDependencies": {
+    "yarn-outdated-notifier": "^0.0.1"
+  }
+}
